@@ -1,7 +1,7 @@
 {
   "homepage": "https://armori1.github.io/react-currency-conversion",
   "name": "react-currency-conversion",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
